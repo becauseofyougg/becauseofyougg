@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @becauseofyougg
-- 👀 I’m interested in Fronend-development
+- 👀 I’m interested in Frontend-development
 - 🌱 I’m currently learning React js
 
 - 📫 How to reach me : frolow-dimka@mail.ru
