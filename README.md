@@ -1,4 +1,4 @@
-- Я Дмитрий Фролов
+
 - 👋 Hi, I’m @becauseofyougg
 - 👀 I’m interested in Frontend-development
 - 🌱 I’m currently learning React js
