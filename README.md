@@ -1,7 +1,7 @@
 
-- 👋 Hi, I’m @becauseofyougg
-- 👀 I’m interested in Frontend-development
-- 🌱 I’m currently learning React js
+- 👋 Hi, I’m @becauseofyougg and I'm a Frontend-developer!
+- 👀 My stack in Frontend-development: React, Redux, Redux-Thunk, Typescript, Nextjs, Sass, Mobx ,Webpack, Tailwind
+- 🌱 My stack in Backend-development:  Nest js, MongoDB, Sequelize и PostgreSQL
 - 📫 How to reach me : frolow-dimka@mail.ru
 
 <!---
